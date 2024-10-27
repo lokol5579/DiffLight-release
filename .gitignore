@@ -1,0 +1,6 @@
+checkpoints/
+summary/
+records/
+memory/
+*.pyc
+*.DS_Store

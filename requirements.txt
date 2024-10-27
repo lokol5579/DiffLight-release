@@ -1,0 +1,8 @@
+torch==2.0.1
+numpy==1.23.5
+tqdm==4.66.4
+matplotlib==3.7.2
+einops==0.8.0
+torchinfo==1.8.0
+scipy==1.11.3
+# CityFlow==0.1 https://github.com/cityflow-project/CityFlow.git
