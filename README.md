@@ -24,7 +24,7 @@ This repo is the official code release for the NeurIPS 2024 conference paper:
 
 # 🧾 Introduction
 
-In this paper, we study the problem of TSC with missing data in the offline setting. We introduce **DiffLight**, a novel conditional diffusion model for TSC under data-missing scenarios in the offline setting. Specifically, we integrate two essential sub-tasks, <em>i.e.</em>, traffic data imputation and decision-making, by leveraging a Partial Rewards Conditioned Diffusion (PRCD) model to prevent missing rewards from interfering with the learning process. Meanwhile, we propose a Diffusion Communication Mechanism (DCM) to promote better communication and control performance under data-missing scenarios. In addition,  to effectively capture the spatial-temporal dependencies among intersections, we design a Spatial-Temporal transFormer (STFormer) architecture.
+In this paper, we study the problem of TSC with missing data in the offline setting. We introduce **DiffLight**, a novel conditional diffusion model for TSC under data-missing scenarios in the offline setting. Specifically, we integrate two essential sub-tasks, <em>i.e.</em>, traffic data imputation and decision-making, by leveraging a Partial Rewards Conditioned Diffusion (PRCD) model to prevent missing rewards from interfering with the learning process. Meanwhile, to effectively capture the spatial-temporal dependencies among intersections, we design a Spatial-Temporal transFormer (STFormer) architecture. In addition, we propose a Diffusion Communication Mechanism (DCM) to promote better communication and control performance under data-missing scenarios.
 
 <p align="center">
   <img src="./assets/Architecture.svg" width="100%"/>
