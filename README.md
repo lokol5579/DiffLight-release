@@ -3,8 +3,8 @@
 </p>
 
 [![pytorch](https://img.shields.io/badge/Python-PyTorch-orange.svg)](https://www.pytorch.org)
+[![arXiv](https://img.shields.io/badge/ArXiv-2410.22938-b31b1b.svg)](https://arxiv.org/abs/2410.22938)
 [![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
-<!-- [![arXiv](https://img.shields.io/badge/ArXiv-[doi]-b31b1b.svg)]() -->
 
 This repo is the official code release for the NeurIPS 2024 conference paper:
 <p align="center">&nbsp;<table><tr><td>
